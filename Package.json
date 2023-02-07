@@ -9,7 +9,7 @@ Example of JSON format only:
      "isProgrammer": true,
      "hobbies": ["Trainers", "Caps", "Gaming"]
     }]
-    
+
 {
     "name"; "Jordan",
     "favouriteNumber": 7,
@@ -121,6 +121,7 @@ B8":"Shows curiosity to the business context in which the solution will be used"
 "techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions.
 
 B9":"Committed to continued professional development."
+
 
 
 // USEFUL FOR CREATION? (USED JSON FORMATTER ON URL AND FOLLOWING SNIPPETS MAY HELP ALSO?)
