@@ -2,12 +2,16 @@
 
 PROJECT: 
 Useful tool for future? – KSB display and search app/evidence tracker etc
+
 Meramaid wireframe - Create - Task 1
+
 Convert KSBs to JSON file - Task 2
+
 Display using REACT - Task 3
 
 Resources?:
-KSBs - Software developer / Institute for Apprenticeships and Technical Education![image](https://user-images.githubusercontent.com/109810029/217231640-a040a7f5-ceb2-4cc8-a143-0955bef5661d.png)
+KSBs - Software developer / Institute for Apprenticeships and Technical Education!(https://user-images.githubusercontent.com/109810029/217231640-a040a7f5-ceb2-4cc8-a143-0955bef5661d.png)
+
 MERMAID –(Markdown Preview Plugin) - INSTALLED! (For wireframe etc)
 
 Tiers to hit:
