@@ -11,7 +11,8 @@ Convert KSBs to JSON file - TASK 5 - RESEARCHING TOOLS BELOW - SEE ALSO EXISTING
 
 Display using REACT - Task 6
 
-Resources?:
+Resources:
+
 KSBs - Software developer / Institute for Apprenticeships and Technical Education! https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1
 
 https://docs.google.com/document/d/1i4nl5qcE4Su4cGID3-WcM19D52SKerHjzg5cUQ0MgjU/edit#heading=h.6ectn7wd6qx2 - LINK THIS SOMEHOW ALSO?
@@ -28,7 +29,35 @@ https://www.atlassian.com/agile/project-management/user-stories
 
 https://asana.com/templates/for/engineering - (May not need this as solo project/Projects on Github would be better anyway?)
 
-Tiers to hit:
+https://www.atlassian.com/agile/tutorials/issues - (May not need this as solo project/Projects on Github would be better anyway)
+
+https://github.com/Neil1977/FinalProject-ToDoList - Final project repo from bootcamp (for MVP format etc - vanilla only)
+
+https://stirring-puffpuff-36090a.netlify.app/ - Bootcamp end project app (for inspiration - similar theme? - see above)
+
+https://directlinegroup-my.sharepoint.com/:p:/g/personal/lunb_directlinegroup_co_uk/EVBNqqvNXqFGiyloWj0Kon0BRJFeNnhKp0tFzLuDD8GdiQ?e=OZcS9g - Bootcamp end project Powerpoint link (for inspiration/format - recording this time though)
+
+https://www.tutorialfunda.com/reactjs/setup-create-react-app-in-visual-studio-code/ - Create React app?
+
+https://www.tutorialfunda.com/reactjs/setup-react-js-project-with-next-js-vs-code/ - React.js?
+
+
+
+
+
+SYSTEM REQUIREMENTS:
+
+REACT.js or Create-react-app? - see above links  - npm install / npx create-react-app my-app / npm start /
+npm install react react-dom next –save /  npm init -y / npm run dev -  should be hosted at http://localhost:3000/
+
+NODE.js - https://nodejs.org/en/download/
+
+LOCAL STORAGE? (Netlify etc?)
+
+
+
+
+Tiers to hit: (To amend to MVP etc)
 
 #Tier 1 - MVP application - Index page (or Home page) with Styled Components (CSS Framework)
 Fetch a list of things and display them nicely using a CSS Framework of styled Components.
@@ -60,3 +89,7 @@ Verify components are rendering as expected, dynamic components update according
 
 #Tier 7 - Accessibility
 Using the Lighthouse feature of Chrome-based browsers, verify your Accessibility is in the Green!
+
+Potential barriers:
+
+
