@@ -1,18 +1,26 @@
 # FRONT-END-PROJECT - DRAFT
 
 PROJECT:
-Useful tool for future? – KSB display and search app/evidence tracker etc
+Useful tool for future? – KSB display and search app/evidence tracker etc - FLESH THIS OUT FURTHER, GOOD LOOK AT KSB SITE AND THINK ABOUT WHAT VALUE I WILL BE CREATING HERE AND NEEDS REPRESENTING - FUNCTIONALITY?/END GOAL? - TASK 1
 
-Meramaid wireframe - Create - Task 1
+AMEND TIERS BELOW TO REFLECT THIS - TASK 2
 
-Convert KSBs to JSON file - Task 2
+Meramaid wireframe - Create - TASK 4
 
-Display using REACT - Task 3
+Convert KSBs to JSON file - TASK 5 - RESEARCHING TOOLS BELOW - SEE ALSO EXISTING RAW PACKAGE.JSON FILE
+
+Display using REACT - Task 6
 
 Resources?:
 KSBs - Software developer / Institute for Apprenticeships and Technical Education! https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1
 
 MERMAID –(Markdown Preview Plugin) - INSTALLED! (For wireframe etc)
+
+https://codebeautify.org/blog/how-to-create-json-file/
+
+https://jsonformatter.curiousconcept.com/
+
+https://www.youtube.com/watch?v=iiADhChRriM&t=11s
 
 Tiers to hit:
 
