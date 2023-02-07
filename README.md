@@ -14,6 +14,8 @@ Display using REACT - Task 6
 Resources?:
 KSBs - Software developer / Institute for Apprenticeships and Technical Education! https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1
 
+https://docs.google.com/document/d/1i4nl5qcE4Su4cGID3-WcM19D52SKerHjzg5cUQ0MgjU/edit#heading=h.6ectn7wd6qx2 - LINK THIS SOMEHOW ALSO?
+
 MERMAID –(Markdown Preview Plugin) - INSTALLED! (For wireframe etc)
 
 https://codebeautify.org/blog/how-to-create-json-file/
@@ -21,6 +23,10 @@ https://codebeautify.org/blog/how-to-create-json-file/
 https://jsonformatter.curiousconcept.com/
 
 https://www.youtube.com/watch?v=iiADhChRriM&t=11s
+
+https://www.atlassian.com/agile/project-management/user-stories
+
+https://asana.com/templates/for/engineering - (May not need this as solo project/Projects on Github would be better anyway?)
 
 Tiers to hit:
 
