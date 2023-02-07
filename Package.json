@@ -1,0 +1,888 @@
+<table data-table="" data-table-core="false">
+        <thead>
+            <tr>
+                    <th scope=""col"" class=""KSBTable__dutyCol"">
+                        Duty
+                    </th>
+                    <th scope=""col"" class=""KSBTable__ksbCol"">
+                        KSBs
+                    </th>
+            </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties1">
+                                <strong>Duty 1</strong>
+                                Take and interpret given software development requirements to estimate effort to deliver the work product to enable accurate costs to be established.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""all stages of the software development life-cycle (what each stage contains",
+"including the inputs and outputs)"" data-dutyid="Occupationduties1" data-id="K1" class=""knowledge KSBHyperlinks kDuty"">K1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""roles and responsibilities within the software development lifecycle (who is responsible for what)"" data-dutyid="Occupationduties1" data-id="K2" class=""knowledge KSBHyperlinks kDuty"">K2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the roles and responsibilities of the project life-cycle within your organisation",
+"and your role"" data-dutyid="Occupationduties1" data-id="K3" class=""knowledge KSBHyperlinks kDuty"">K3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""how teams work effectively to produce software and how to contribute appropriately"" data-dutyid="Occupationduties1" data-id="K6" class=""knowledge KSBHyperlinks kDuty"">K6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software design approaches and patterns",
+"to identify reusable solutions to commonly occurring problems"" data-dutyid="Occupationduties1" data-id="K7" class=""knowledge KSBHyperlinks kDuty"">K7 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply structured techniques to problem solving",
+"debug code and understand the structure of programmes in order to identify and resolve issues"" data-dutyid="Occupationduties1" data-id="S7" class=""skill KSBHyperlinks sDuty"">S7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply an appropriate software development approach according to the relevant paradigm (for example object oriented",
+"event driven or procedural)"" data-dutyid="Occupationduties1" data-id="S11" class=""skill KSBHyperlinks sDuty"">S11 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""interpret and implement a given design whist remaining compliant with security and maintainability requirements"" data-dutyid="Occupationduties1" data-id="S17" class=""skill KSBHyperlinks sDuty"">S17 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works independently and takes responsibility. For example",
+"has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"" data-dutyid="Occupationduties1" data-id="B1" class=""behaviour KSBHyperlinks bDuty"">B1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Applies logical thinking.  For example",
+"uses clear and valid reasoning when making decisions related to undertaking work instructions"" data-dutyid="Occupationduties1" data-id="B2" class=""behaviour KSBHyperlinks bDuty"">B2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows curiosity to the business context in which the solution will be used",
+"displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities",
+"techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions."" data-dutyid="Occupationduties1" data-id="B8" class=""behaviour KSBHyperlinks bDuty"">B8 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties2">
+                                <strong>Duty 2</strong>
+                                Break software development activities down into logical units of work to enable sequencing and ensure the best possible structuring of activities to deliver a high quality product right first time.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""all stages of the software development life-cycle (what each stage contains",
+"including the inputs and outputs)"" data-dutyid="Occupationduties2" data-id="K1" class=""knowledge KSBHyperlinks kDuty"">K1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the roles and responsibilities of the project life-cycle within your organisation",
+"and your role"" data-dutyid="Occupationduties2" data-id="K3" class=""knowledge KSBHyperlinks kDuty"">K3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""how teams work effectively to produce software and how to contribute appropriately"" data-dutyid="Occupationduties2" data-id="K6" class=""knowledge KSBHyperlinks kDuty"">K6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software design approaches and patterns",
+"to identify reusable solutions to commonly occurring problems"" data-dutyid="Occupationduties2" data-id="K7" class=""knowledge KSBHyperlinks kDuty"">K7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""algorithms",
+"logic and data structures relevant to software development for example":"- arrays- stacks- queues- linked lists- trees- graphs- hash tables- sorting algorithms- searching algorithms- critical sections and race conditions"" data-dutyid="Occupationduties2" data-id="K9" class=""knowledge KSBHyperlinks kDuty"">K9 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create logical and maintainable code"" data-dutyid="Occupationduties2" data-id="S1" class=""skill KSBHyperlinks sDuty"">S1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply structured techniques to problem solving",
+"debug code and understand the structure of programmes in order to identify and resolve issues"" data-dutyid="Occupationduties2" data-id="S7" class=""skill KSBHyperlinks sDuty"">S7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create simple software designs to effectively communicate understanding of the program"" data-dutyid="Occupationduties2" data-id="S8" class=""skill KSBHyperlinks sDuty"">S8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply algorithms",
+"logic and data structures"" data-dutyid="Occupationduties2" data-id="S16" class=""skill KSBHyperlinks sDuty"">S16 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""interpret and implement a given design whist remaining compliant with security and maintainability requirements"" data-dutyid="Occupationduties2" data-id="S17" class=""skill KSBHyperlinks sDuty"">S17 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works independently and takes responsibility. For example",
+"has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"" data-dutyid="Occupationduties2" data-id="B1" class=""behaviour KSBHyperlinks bDuty"">B1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Applies logical thinking.  For example",
+"uses clear and valid reasoning when making decisions related to undertaking work instructions"" data-dutyid="Occupationduties2" data-id="B2" class=""behaviour KSBHyperlinks bDuty"">B2 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties3">
+                                <strong>Duty 3</strong>
+                                Report progress accurately throughout the development life-cycle stages to ensure adequate audit trails of key worksteps such that the organisation can demonstrate how the product has been created for quality and commercial purposes.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""all stages of the software development life-cycle (what each stage contains",
+"including the inputs and outputs)"" data-dutyid="Occupationduties3" data-id="K1" class=""knowledge KSBHyperlinks kDuty"">K1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""roles and responsibilities within the software development lifecycle (who is responsible for what)"" data-dutyid="Occupationduties3" data-id="K2" class=""knowledge KSBHyperlinks kDuty"">K2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the roles and responsibilities of the project life-cycle within your organisation",
+"and your role"" data-dutyid="Occupationduties3" data-id="K3" class=""knowledge KSBHyperlinks kDuty"">K3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""how best to communicate using the different communication methods and how to adapt appropriately to different audiences"" data-dutyid="Occupationduties3" data-id="K4" class=""knowledge KSBHyperlinks kDuty"">K4 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""how teams work effectively to produce software and how to contribute appropriately"" data-dutyid="Occupationduties3" data-id="K6" class=""knowledge KSBHyperlinks kDuty"">K6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""organisational policies and procedures relating to the tasks being undertaken",
+"and when to follow them.  For example the storage and treatment of GDPR sensitive data."" data-dutyid="Occupationduties3" data-id="K8" class=""knowledge KSBHyperlinks kDuty"">K8 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""communicate software solutions and ideas to technical and non-technical stakeholders"" data-dutyid="Occupationduties3" data-id="S15" class=""skill KSBHyperlinks sDuty"">S15 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works collaboratively with a wide range of people in different roles",
+"internally and externally",
+"with a positive attitude to inclusion &amp; diversity"" data-dutyid="Occupationduties3" data-id="B4" class=""behaviour KSBHyperlinks bDuty"">B4 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties4">
+                                <strong>Duty 4</strong>
+                                Identify and report any impediments to software development activities and propose practical solutions.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software design approaches and patterns",
+"to identify reusable solutions to commonly occurring problems"" data-dutyid="Occupationduties4" data-id="K7" class=""knowledge KSBHyperlinks kDuty"">K7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""principles and uses of relational and non-relational databases"" data-dutyid="Occupationduties4" data-id="K10" class=""knowledge KSBHyperlinks kDuty"">K10 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply structured techniques to problem solving",
+"debug code and understand the structure of programmes in order to identify and resolve issues"" data-dutyid="Occupationduties4" data-id="S7" class=""skill KSBHyperlinks sDuty"">S7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create analysis artefacts",
+"such as use cases and/or user stories"" data-dutyid="Occupationduties4" data-id="S9" class=""skill KSBHyperlinks sDuty"">S9 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works independently and takes responsibility. For example",
+"has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"" data-dutyid="Occupationduties4" data-id="B1" class=""behaviour KSBHyperlinks bDuty"">B1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Acts with integrity with respect to ethical",
+"legal and regulatory ensuring the protection of personal data",
+"safety and security."" data-dutyid="Occupationduties4" data-id="B5" class=""behaviour KSBHyperlinks bDuty"">B5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows initiative and takes responsibility for solving problems within their own remit",
+"being resourceful when faced with a problem to solve."" data-dutyid="Occupationduties4" data-id="B6" class=""behaviour KSBHyperlinks bDuty"">B6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Communicates effectively in a variety of situations to both a technical and non-technical audience."" data-dutyid="Occupationduties4" data-id="B7" class=""behaviour KSBHyperlinks bDuty"">B7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows curiosity to the business context in which the solution will be used",
+"displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities",
+"techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions."" data-dutyid="Occupationduties4" data-id="B8" class=""behaviour KSBHyperlinks bDuty"">B8 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties5">
+                                <strong>Duty 5</strong>
+                                Convert customer requirements into technical requirements, both functional and non-functional to ensure that customers' expectations are accurately reflected in the software products developed.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""all stages of the software development life-cycle (what each stage contains",
+"including the inputs and outputs)"" data-dutyid="Occupationduties5" data-id="K1" class=""knowledge KSBHyperlinks kDuty"">K1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""roles and responsibilities within the software development lifecycle (who is responsible for what)"" data-dutyid="Occupationduties5" data-id="K2" class=""knowledge KSBHyperlinks kDuty"">K2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the roles and responsibilities of the project life-cycle within your organisation",
+"and your role"" data-dutyid="Occupationduties5" data-id="K3" class=""knowledge KSBHyperlinks kDuty"">K3 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""develop effective user interfaces"" data-dutyid="Occupationduties5" data-id="S2" class=""skill KSBHyperlinks sDuty"">S2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create analysis artefacts",
+"such as use cases and/or user stories"" data-dutyid="Occupationduties5" data-id="S9" class=""skill KSBHyperlinks sDuty"">S9 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply an appropriate software development approach according to the relevant paradigm (for example object oriented",
+"event driven or procedural)"" data-dutyid="Occupationduties5" data-id="S11" class=""skill KSBHyperlinks sDuty"">S11 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""follow software designs and functional or technical specifications"" data-dutyid="Occupationduties5" data-id="S12" class=""skill KSBHyperlinks sDuty"">S12 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""follow company",
+"team or client approaches to continuous integration",
+"version and source control"" data-dutyid="Occupationduties5" data-id="S14" class=""skill KSBHyperlinks sDuty"">S14 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""interpret and implement a given design whist remaining compliant with security and maintainability requirements"" data-dutyid="Occupationduties5" data-id="S17" class=""skill KSBHyperlinks sDuty"">S17 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works independently and takes responsibility. For example",
+"has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"" data-dutyid="Occupationduties5" data-id="B1" class=""behaviour KSBHyperlinks bDuty"">B1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Applies logical thinking.  For example",
+"uses clear and valid reasoning when making decisions related to undertaking work instructions"" data-dutyid="Occupationduties5" data-id="B2" class=""behaviour KSBHyperlinks bDuty"">B2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Maintains a  productive",
+"professional and secure working environment"" data-dutyid="Occupationduties5" data-id="B3" class=""behaviour KSBHyperlinks bDuty"">B3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works collaboratively with a wide range of people in different roles",
+"internally and externally",
+"with a positive attitude to inclusion &amp; diversity"" data-dutyid="Occupationduties5" data-id="B4" class=""behaviour KSBHyperlinks bDuty"">B4 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows initiative and takes responsibility for solving problems within their own remit",
+"being resourceful when faced with a problem to solve."" data-dutyid="Occupationduties5" data-id="B6" class=""behaviour KSBHyperlinks bDuty"">B6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Communicates effectively in a variety of situations to both a technical and non-technical audience."" data-dutyid="Occupationduties5" data-id="B7" class=""behaviour KSBHyperlinks bDuty"">B7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows curiosity to the business context in which the solution will be used",
+"displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities",
+"techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions."" data-dutyid="Occupationduties5" data-id="B8" class=""behaviour KSBHyperlinks bDuty"">B8 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties6">
+                                <strong>Duty 6</strong>
+                                Identify and select the most appropriate technical solution, taking into consideration coding best practice and appropriate quality standards.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software design approaches and patterns",
+"to identify reusable solutions to commonly occurring problems"" data-dutyid="Occupationduties6" data-id="K7" class=""knowledge KSBHyperlinks kDuty"">K7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""algorithms",
+"logic and data structures relevant to software development for example":"- arrays- stacks- queues- linked lists- trees- graphs- hash tables- sorting algorithms- searching algorithms- critical sections and race conditions"" data-dutyid="Occupationduties6" data-id="K9" class=""knowledge KSBHyperlinks kDuty"">K9 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""principles and uses of relational and non-relational databases"" data-dutyid="Occupationduties6" data-id="K10" class=""knowledge KSBHyperlinks kDuty"">K10 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software designs and functional or technical specifications"" data-dutyid="Occupationduties6" data-id="K11" class=""knowledge KSBHyperlinks kDuty"">K11 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create logical and maintainable code"" data-dutyid="Occupationduties6" data-id="S1" class=""skill KSBHyperlinks sDuty"">S1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create simple software designs to effectively communicate understanding of the program"" data-dutyid="Occupationduties6" data-id="S8" class=""skill KSBHyperlinks sDuty"">S8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create analysis artefacts",
+"such as use cases and/or user stories"" data-dutyid="Occupationduties6" data-id="S9" class=""skill KSBHyperlinks sDuty"">S9 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply an appropriate software development approach according to the relevant paradigm (for example object oriented",
+"event driven or procedural)"" data-dutyid="Occupationduties6" data-id="S11" class=""skill KSBHyperlinks sDuty"">S11 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""follow software designs and functional or technical specifications"" data-dutyid="Occupationduties6" data-id="S12" class=""skill KSBHyperlinks sDuty"">S12 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply algorithms",
+"logic and data structures"" data-dutyid="Occupationduties6" data-id="S16" class=""skill KSBHyperlinks sDuty"">S16 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""interpret and implement a given design whist remaining compliant with security and maintainability requirements"" data-dutyid="Occupationduties6" data-id="S17" class=""skill KSBHyperlinks sDuty"">S17 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Acts with integrity with respect to ethical",
+"legal and regulatory ensuring the protection of personal data",
+"safety and security."" data-dutyid="Occupationduties6" data-id="B5" class=""behaviour KSBHyperlinks bDuty"">B5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows initiative and takes responsibility for solving problems within their own remit",
+"being resourceful when faced with a problem to solve."" data-dutyid="Occupationduties6" data-id="B6" class=""behaviour KSBHyperlinks bDuty"">B6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows curiosity to the business context in which the solution will be used",
+"displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities",
+"techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions."" data-dutyid="Occupationduties6" data-id="B8" class=""behaviour KSBHyperlinks bDuty"">B8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Committed to continued professional development."" data-dutyid="Occupationduties6" data-id="B9" class=""behaviour KSBHyperlinks bDuty"">B9 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties7">
+                                <strong>Duty 7</strong>
+                                Communicate software development solutions to a range of internal or external stakeholders to ensure clear understanding of requirements and how they have been met or adjusted.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""all stages of the software development life-cycle (what each stage contains",
+"including the inputs and outputs)"" data-dutyid="Occupationduties7" data-id="K1" class=""knowledge KSBHyperlinks kDuty"">K1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""roles and responsibilities within the software development lifecycle (who is responsible for what)"" data-dutyid="Occupationduties7" data-id="K2" class=""knowledge KSBHyperlinks kDuty"">K2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the roles and responsibilities of the project life-cycle within your organisation",
+"and your role"" data-dutyid="Occupationduties7" data-id="K3" class=""knowledge KSBHyperlinks kDuty"">K3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""how best to communicate using the different communication methods and how to adapt appropriately to different audiences"" data-dutyid="Occupationduties7" data-id="K4" class=""knowledge KSBHyperlinks kDuty"">K4 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""how teams work effectively to produce software and how to contribute appropriately"" data-dutyid="Occupationduties7" data-id="K6" class=""knowledge KSBHyperlinks kDuty"">K6 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""communicate software solutions and ideas to technical and non-technical stakeholders"" data-dutyid="Occupationduties7" data-id="S15" class=""skill KSBHyperlinks sDuty"">S15 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works independently and takes responsibility. For example",
+"has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"" data-dutyid="Occupationduties7" data-id="B1" class=""behaviour KSBHyperlinks bDuty"">B1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works collaboratively with a wide range of people in different roles",
+"internally and externally",
+"with a positive attitude to inclusion &amp; diversity"" data-dutyid="Occupationduties7" data-id="B4" class=""behaviour KSBHyperlinks bDuty"">B4 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows initiative and takes responsibility for solving problems within their own remit",
+"being resourceful when faced with a problem to solve."" data-dutyid="Occupationduties7" data-id="B6" class=""behaviour KSBHyperlinks bDuty"">B6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Communicates effectively in a variety of situations to both a technical and non-technical audience."" data-dutyid="Occupationduties7" data-id="B7" class=""behaviour KSBHyperlinks bDuty"">B7 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties8">
+                                <strong>Duty 8</strong>
+                                Consider security implications of proposed design to ensure that security considerations are built in from inception and throughout the development process.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software design approaches and patterns",
+"to identify reusable solutions to commonly occurring problems"" data-dutyid="Occupationduties8" data-id="K7" class=""knowledge KSBHyperlinks kDuty"">K7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""organisational policies and procedures relating to the tasks being undertaken",
+"and when to follow them.  For example the storage and treatment of GDPR sensitive data."" data-dutyid="Occupationduties8" data-id="K8" class=""knowledge KSBHyperlinks kDuty"">K8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software designs and functional or technical specifications"" data-dutyid="Occupationduties8" data-id="K11" class=""knowledge KSBHyperlinks kDuty"">K11 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create logical and maintainable code"" data-dutyid="Occupationduties8" data-id="S1" class=""skill KSBHyperlinks sDuty"">S1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""develop effective user interfaces"" data-dutyid="Occupationduties8" data-id="S2" class=""skill KSBHyperlinks sDuty"">S2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""link code to data sets"" data-dutyid="Occupationduties8" data-id="S3" class=""skill KSBHyperlinks sDuty"">S3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create simple software designs to effectively communicate understanding of the program"" data-dutyid="Occupationduties8" data-id="S8" class=""skill KSBHyperlinks sDuty"">S8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply an appropriate software development approach according to the relevant paradigm (for example object oriented",
+"event driven or procedural)"" data-dutyid="Occupationduties8" data-id="S11" class=""skill KSBHyperlinks sDuty"">S11 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""interpret and implement a given design whist remaining compliant with security and maintainability requirements"" data-dutyid="Occupationduties8" data-id="S17" class=""skill KSBHyperlinks sDuty"">S17 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Acts with integrity with respect to ethical",
+"legal and regulatory ensuring the protection of personal data",
+"safety and security."" data-dutyid="Occupationduties8" data-id="B5" class=""behaviour KSBHyperlinks bDuty"">B5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows curiosity to the business context in which the solution will be used",
+"displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities",
+"techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions."" data-dutyid="Occupationduties8" data-id="B8" class=""behaviour KSBHyperlinks bDuty"">B8 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties9">
+                                <strong>Duty 9</strong>
+                                Write logical and maintainable software solutions to meet the design and organisational coding standards  (Software Development Lifecycle -Implementation and Build phase).
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""algorithms",
+"logic and data structures relevant to software development for example":"- arrays- stacks- queues- linked lists- trees- graphs- hash tables- sorting algorithms- searching algorithms- critical sections and race conditions"" data-dutyid="Occupationduties9" data-id="K9" class=""knowledge KSBHyperlinks kDuty"">K9 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software designs and functional or technical specifications"" data-dutyid="Occupationduties9" data-id="K11" class=""knowledge KSBHyperlinks kDuty"">K11 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create logical and maintainable code"" data-dutyid="Occupationduties9" data-id="S1" class=""skill KSBHyperlinks sDuty"">S1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""develop effective user interfaces"" data-dutyid="Occupationduties9" data-id="S2" class=""skill KSBHyperlinks sDuty"">S2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""link code to data sets"" data-dutyid="Occupationduties9" data-id="S3" class=""skill KSBHyperlinks sDuty"">S3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create simple software designs to effectively communicate understanding of the program"" data-dutyid="Occupationduties9" data-id="S8" class=""skill KSBHyperlinks sDuty"">S8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""build",
+"manage and deploy code into the relevant environment"" data-dutyid="Occupationduties9" data-id="S10" class=""skill KSBHyperlinks sDuty"">S10 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply an appropriate software development approach according to the relevant paradigm (for example object oriented",
+"event driven or procedural)"" data-dutyid="Occupationduties9" data-id="S11" class=""skill KSBHyperlinks sDuty"">S11 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""follow software designs and functional or technical specifications"" data-dutyid="Occupationduties9" data-id="S12" class=""skill KSBHyperlinks sDuty"">S12 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply algorithms",
+"logic and data structures"" data-dutyid="Occupationduties9" data-id="S16" class=""skill KSBHyperlinks sDuty"">S16 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Applies logical thinking.  For example",
+"uses clear and valid reasoning when making decisions related to undertaking work instructions"" data-dutyid="Occupationduties9" data-id="B2" class=""behaviour KSBHyperlinks bDuty"">B2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Maintains a  productive",
+"professional and secure working environment"" data-dutyid="Occupationduties9" data-id="B3" class=""behaviour KSBHyperlinks bDuty"">B3 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties10">
+                                <strong>Duty 10</strong>
+                                Apply security best practice to the software solution throughout the software development life-cycle.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software design approaches and patterns",
+"to identify reusable solutions to commonly occurring problems"" data-dutyid="Occupationduties10" data-id="K7" class=""knowledge KSBHyperlinks kDuty"">K7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""organisational policies and procedures relating to the tasks being undertaken",
+"and when to follow them.  For example the storage and treatment of GDPR sensitive data."" data-dutyid="Occupationduties10" data-id="K8" class=""knowledge KSBHyperlinks kDuty"">K8 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create simple software designs to effectively communicate understanding of the program"" data-dutyid="Occupationduties10" data-id="S8" class=""skill KSBHyperlinks sDuty"">S8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply an appropriate software development approach according to the relevant paradigm (for example object oriented",
+"event driven or procedural)"" data-dutyid="Occupationduties10" data-id="S11" class=""skill KSBHyperlinks sDuty"">S11 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""follow software designs and functional or technical specifications"" data-dutyid="Occupationduties10" data-id="S12" class=""skill KSBHyperlinks sDuty"">S12 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Acts with integrity with respect to ethical",
+"legal and regulatory ensuring the protection of personal data",
+"safety and security."" data-dutyid="Occupationduties10" data-id="B5" class=""behaviour KSBHyperlinks bDuty"">B5 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties11">
+                                <strong>Duty 11</strong>
+                                Create and maintain appropriate project documentation to explain the development process and resources used.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""all stages of the software development life-cycle (what each stage contains",
+"including the inputs and outputs)"" data-dutyid="Occupationduties11" data-id="K1" class=""knowledge KSBHyperlinks kDuty"">K1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the roles and responsibilities of the project life-cycle within your organisation",
+"and your role"" data-dutyid="Occupationduties11" data-id="K3" class=""knowledge KSBHyperlinks kDuty"">K3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the similarities and differences between different software development methodologies",
+"such as agile and waterfall."" data-dutyid="Occupationduties11" data-id="K5" class=""knowledge KSBHyperlinks kDuty"">K5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""organisational policies and procedures relating to the tasks being undertaken",
+"and when to follow them.  For example the storage and treatment of GDPR sensitive data."" data-dutyid="Occupationduties11" data-id="K8" class=""knowledge KSBHyperlinks kDuty"">K8 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create analysis artefacts",
+"such as use cases and/or user stories"" data-dutyid="Occupationduties11" data-id="S9" class=""skill KSBHyperlinks sDuty"">S9 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Applies logical thinking.  For example",
+"uses clear and valid reasoning when making decisions related to undertaking work instructions"" data-dutyid="Occupationduties11" data-id="B2" class=""behaviour KSBHyperlinks bDuty"">B2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Maintains a  productive",
+"professional and secure working environment"" data-dutyid="Occupationduties11" data-id="B3" class=""behaviour KSBHyperlinks bDuty"">B3 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties12">
+                                <strong>Duty 12</strong>
+                                Apply appropriate recovery techniques to ensure the software solution being developed is not lost (Software Development Lifecycle -Implementation and Build phase).
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software design approaches and patterns",
+"to identify reusable solutions to commonly occurring problems"" data-dutyid="Occupationduties12" data-id="K7" class=""knowledge KSBHyperlinks kDuty"">K7 </a></span>
+                            </p>
+                            <p>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works independently and takes responsibility. For example",
+"has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"" data-dutyid="Occupationduties12" data-id="B1" class=""behaviour KSBHyperlinks bDuty"">B1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Committed to continued professional development."" data-dutyid="Occupationduties12" data-id="B9" class=""behaviour KSBHyperlinks bDuty"">B9 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties13">
+                                <strong>Duty 13</strong>
+                                Implement appropriate change control to ensure that software development changes may be tracked and quality risks managed.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""all stages of the software development life-cycle (what each stage contains",
+"including the inputs and outputs)"" data-dutyid="Occupationduties13" data-id="K1" class=""knowledge KSBHyperlinks kDuty"">K1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""roles and responsibilities within the software development lifecycle (who is responsible for what)"" data-dutyid="Occupationduties13" data-id="K2" class=""knowledge KSBHyperlinks kDuty"">K2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the roles and responsibilities of the project life-cycle within your organisation",
+"and your role"" data-dutyid="Occupationduties13" data-id="K3" class=""knowledge KSBHyperlinks kDuty"">K3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the similarities and differences between different software development methodologies",
+"such as agile and waterfall."" data-dutyid="Occupationduties13" data-id="K5" class=""knowledge KSBHyperlinks kDuty"">K5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""how teams work effectively to produce software and how to contribute appropriately"" data-dutyid="Occupationduties13" data-id="K6" class=""knowledge KSBHyperlinks kDuty"">K6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""organisational policies and procedures relating to the tasks being undertaken",
+"and when to follow them.  For example the storage and treatment of GDPR sensitive data."" data-dutyid="Occupationduties13" data-id="K8" class=""knowledge KSBHyperlinks kDuty"">K8 </a></span>
+                            </p>
+                            <p>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Applies logical thinking.  For example",
+"uses clear and valid reasoning when making decisions related to undertaking work instructions"" data-dutyid="Occupationduties13" data-id="B2" class=""behaviour KSBHyperlinks bDuty"">B2 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties14">
+                                <strong>Duty 14</strong>
+                                Undertake unit testing of solutions, with appropriate levels of test code coverage, to identify and, where necessary, resolve issues (Software Development Lifecycle -Implementation and Build phase).
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""algorithms",
+"logic and data structures relevant to software development for example":"- arrays- stacks- queues- linked lists- trees- graphs- hash tables- sorting algorithms- searching algorithms- critical sections and race conditions"" data-dutyid="Occupationduties14" data-id="K9" class=""knowledge KSBHyperlinks kDuty"">K9 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software designs and functional or technical specifications"" data-dutyid="Occupationduties14" data-id="K11" class=""knowledge KSBHyperlinks kDuty"">K11 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software testing frameworks and methodologies"" data-dutyid="Occupationduties14" data-id="K12" class=""knowledge KSBHyperlinks kDuty"">K12 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""test code and analyse results to correct errors found using unit testing"" data-dutyid="Occupationduties14" data-id="S4" class=""skill KSBHyperlinks sDuty"">S4 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""conduct a range of test types",
+"such as Integration",
+"System",
+"User Acceptance",
+"Non-Functional",
+"Performance and Security testing."" data-dutyid="Occupationduties14" data-id="S5" class=""skill KSBHyperlinks sDuty"">S5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""identify and create test scenarios"" data-dutyid="Occupationduties14" data-id="S6" class=""skill KSBHyperlinks sDuty"">S6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply structured techniques to problem solving",
+"debug code and understand the structure of programmes in order to identify and resolve issues"" data-dutyid="Occupationduties14" data-id="S7" class=""skill KSBHyperlinks sDuty"">S7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""follow testing frameworks and methodologies"" data-dutyid="Occupationduties14" data-id="S13" class=""skill KSBHyperlinks sDuty"">S13 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows initiative and takes responsibility for solving problems within their own remit",
+"being resourceful when faced with a problem to solve."" data-dutyid="Occupationduties14" data-id="B6" class=""behaviour KSBHyperlinks bDuty"">B6 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties15">
+                                <strong>Duty 15</strong>
+                                Perfom testing of the software solution to ensure a high quality output (Software Development Lifecycle -Test phase).
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""algorithms",
+"logic and data structures relevant to software development for example":"- arrays- stacks- queues- linked lists- trees- graphs- hash tables- sorting algorithms- searching algorithms- critical sections and race conditions"" data-dutyid="Occupationduties15" data-id="K9" class=""knowledge KSBHyperlinks kDuty"">K9 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software designs and functional or technical specifications"" data-dutyid="Occupationduties15" data-id="K11" class=""knowledge KSBHyperlinks kDuty"">K11 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software testing frameworks and methodologies"" data-dutyid="Occupationduties15" data-id="K12" class=""knowledge KSBHyperlinks kDuty"">K12 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""test code and analyse results to correct errors found using unit testing"" data-dutyid="Occupationduties15" data-id="S4" class=""skill KSBHyperlinks sDuty"">S4 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""conduct a range of test types",
+"such as Integration",
+"System",
+"User Acceptance",
+"Non-Functional",
+"Performance and Security testing."" data-dutyid="Occupationduties15" data-id="S5" class=""skill KSBHyperlinks sDuty"">S5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""identify and create test scenarios"" data-dutyid="Occupationduties15" data-id="S6" class=""skill KSBHyperlinks sDuty"">S6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""follow testing frameworks and methodologies"" data-dutyid="Occupationduties15" data-id="S13" class=""skill KSBHyperlinks sDuty"">S13 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Maintains a  productive",
+"professional and secure working environment"" data-dutyid="Occupationduties15" data-id="B3" class=""behaviour KSBHyperlinks bDuty"">B3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows curiosity to the business context in which the solution will be used",
+"displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities",
+"techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions."" data-dutyid="Occupationduties15" data-id="B8" class=""behaviour KSBHyperlinks bDuty"">B8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Committed to continued professional development."" data-dutyid="Occupationduties15" data-id="B9" class=""behaviour KSBHyperlinks bDuty"">B9 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties16">
+                                <strong>Duty 16</strong>
+                                Deliver a suitably documented deployable solution to the customer for their use (Software Development Lifecycle -Deploy phase).
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""all stages of the software development life-cycle (what each stage contains",
+"including the inputs and outputs)"" data-dutyid="Occupationduties16" data-id="K1" class=""knowledge KSBHyperlinks kDuty"">K1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""roles and responsibilities within the software development lifecycle (who is responsible for what)"" data-dutyid="Occupationduties16" data-id="K2" class=""knowledge KSBHyperlinks kDuty"">K2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the roles and responsibilities of the project life-cycle within your organisation",
+"and your role"" data-dutyid="Occupationduties16" data-id="K3" class=""knowledge KSBHyperlinks kDuty"">K3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the similarities and differences between different software development methodologies",
+"such as agile and waterfall."" data-dutyid="Occupationduties16" data-id="K5" class=""knowledge KSBHyperlinks kDuty"">K5 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""develop effective user interfaces"" data-dutyid="Occupationduties16" data-id="S2" class=""skill KSBHyperlinks sDuty"">S2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create simple software designs to effectively communicate understanding of the program"" data-dutyid="Occupationduties16" data-id="S8" class=""skill KSBHyperlinks sDuty"">S8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""create analysis artefacts",
+"such as use cases and/or user stories"" data-dutyid="Occupationduties16" data-id="S9" class=""skill KSBHyperlinks sDuty"">S9 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""build",
+"manage and deploy code into the relevant environment"" data-dutyid="Occupationduties16" data-id="S10" class=""skill KSBHyperlinks sDuty"">S10 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""communicate software solutions and ideas to technical and non-technical stakeholders"" data-dutyid="Occupationduties16" data-id="S15" class=""skill KSBHyperlinks sDuty"">S15 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Maintains a  productive",
+"professional and secure working environment"" data-dutyid="Occupationduties16" data-id="B3" class=""behaviour KSBHyperlinks bDuty"">B3 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties17">
+                                <strong>Duty 17</strong>
+                                Support delivery of one or more software deployment phases, such as trials and final release, to ensure that software developer outcomes are deployed correctly.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""roles and responsibilities within the software development lifecycle (who is responsible for what)"" data-dutyid="Occupationduties17" data-id="K2" class=""knowledge KSBHyperlinks kDuty"">K2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the similarities and differences between different software development methodologies",
+"such as agile and waterfall."" data-dutyid="Occupationduties17" data-id="K5" class=""knowledge KSBHyperlinks kDuty"">K5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""how teams work effectively to produce software and how to contribute appropriately"" data-dutyid="Occupationduties17" data-id="K6" class=""knowledge KSBHyperlinks kDuty"">K6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""organisational policies and procedures relating to the tasks being undertaken",
+"and when to follow them.  For example the storage and treatment of GDPR sensitive data."" data-dutyid="Occupationduties17" data-id="K8" class=""knowledge KSBHyperlinks kDuty"">K8 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""conduct a range of test types",
+"such as Integration",
+"System",
+"User Acceptance",
+"Non-Functional",
+"Performance and Security testing."" data-dutyid="Occupationduties17" data-id="S5" class=""skill KSBHyperlinks sDuty"">S5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""identify and create test scenarios"" data-dutyid="Occupationduties17" data-id="S6" class=""skill KSBHyperlinks sDuty"">S6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""build",
+"manage and deploy code into the relevant environment"" data-dutyid="Occupationduties17" data-id="S10" class=""skill KSBHyperlinks sDuty"">S10 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works independently and takes responsibility. For example",
+"has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"" data-dutyid="Occupationduties17" data-id="B1" class=""behaviour KSBHyperlinks bDuty"">B1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works collaboratively with a wide range of people in different roles",
+"internally and externally",
+"with a positive attitude to inclusion &amp; diversity"" data-dutyid="Occupationduties17" data-id="B4" class=""behaviour KSBHyperlinks bDuty"">B4 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Communicates effectively in a variety of situations to both a technical and non-technical audience."" data-dutyid="Occupationduties17" data-id="B7" class=""behaviour KSBHyperlinks bDuty"">B7 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties18">
+                                <strong>Duty 18</strong>
+                                Provide support during software trials and after final release to ensure that customers understand and can correctly apply the product, and risks are mitigated.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""roles and responsibilities within the software development lifecycle (who is responsible for what)"" data-dutyid="Occupationduties18" data-id="K2" class=""knowledge KSBHyperlinks kDuty"">K2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the similarities and differences between different software development methodologies",
+"such as agile and waterfall."" data-dutyid="Occupationduties18" data-id="K5" class=""knowledge KSBHyperlinks kDuty"">K5 </a></span>
+                            </p>
+                            <p>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works collaboratively with a wide range of people in different roles",
+"internally and externally",
+"with a positive attitude to inclusion &amp; diversity"" data-dutyid="Occupationduties18" data-id="B4" class=""behaviour KSBHyperlinks bDuty"">B4 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Committed to continued professional development."" data-dutyid="Occupationduties18" data-id="B9" class=""behaviour KSBHyperlinks bDuty"">B9 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties19">
+                                <strong>Duty 19</strong>
+                                Respond appropriately to given Service Level Agreements (SLAs) to ensure that time and resources invested in software development activity are allocated appropriately to deliver good customer service.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""all stages of the software development life-cycle (what each stage contains",
+"including the inputs and outputs)"" data-dutyid="Occupationduties19" data-id="K1" class=""knowledge KSBHyperlinks kDuty"">K1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""roles and responsibilities within the software development lifecycle (who is responsible for what)"" data-dutyid="Occupationduties19" data-id="K2" class=""knowledge KSBHyperlinks kDuty"">K2 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the roles and responsibilities of the project life-cycle within your organisation",
+"and your role"" data-dutyid="Occupationduties19" data-id="K3" class=""knowledge KSBHyperlinks kDuty"">K3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""the similarities and differences between different software development methodologies",
+"such as agile and waterfall."" data-dutyid="Occupationduties19" data-id="K5" class=""knowledge KSBHyperlinks kDuty"">K5 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""how teams work effectively to produce software and how to contribute appropriately"" data-dutyid="Occupationduties19" data-id="K6" class=""knowledge KSBHyperlinks kDuty"">K6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software design approaches and patterns",
+"to identify reusable solutions to commonly occurring problems"" data-dutyid="Occupationduties19" data-id="K7" class=""knowledge KSBHyperlinks kDuty"">K7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""organisational policies and procedures relating to the tasks being undertaken",
+"and when to follow them.  For example the storage and treatment of GDPR sensitive data."" data-dutyid="Occupationduties19" data-id="K8" class=""knowledge KSBHyperlinks kDuty"">K8 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""follow company",
+"team or client approaches to continuous integration",
+"version and source control"" data-dutyid="Occupationduties19" data-id="S14" class=""skill KSBHyperlinks sDuty"">S14 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works independently and takes responsibility. For example",
+"has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"" data-dutyid="Occupationduties19" data-id="B1" class=""behaviour KSBHyperlinks bDuty"">B1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows initiative and takes responsibility for solving problems within their own remit",
+"being resourceful when faced with a problem to solve."" data-dutyid="Occupationduties19" data-id="B6" class=""behaviour KSBHyperlinks bDuty"">B6 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows curiosity to the business context in which the solution will be used",
+"displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities",
+"techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions."" data-dutyid="Occupationduties19" data-id="B8" class=""behaviour KSBHyperlinks bDuty"">B8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Committed to continued professional development."" data-dutyid="Occupationduties19" data-id="B9" class=""behaviour KSBHyperlinks bDuty"">B9 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties20">
+                                <strong>Duty 20</strong>
+                                Apply suitable 'bug fix', appropriate to the severity and priority of the software development issue identified.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""software testing frameworks and methodologies"" data-dutyid="Occupationduties20" data-id="K12" class=""knowledge KSBHyperlinks kDuty"">K12 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""test code and analyse results to correct errors found using unit testing"" data-dutyid="Occupationduties20" data-id="S4" class=""skill KSBHyperlinks sDuty"">S4 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""apply structured techniques to problem solving",
+"debug code and understand the structure of programmes in order to identify and resolve issues"" data-dutyid="Occupationduties20" data-id="S7" class=""skill KSBHyperlinks sDuty"">S7 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""follow testing frameworks and methodologies"" data-dutyid="Occupationduties20" data-id="S13" class=""skill KSBHyperlinks sDuty"">S13 </a></span>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows initiative and takes responsibility for solving problems within their own remit",
+"being resourceful when faced with a problem to solve."" data-dutyid="Occupationduties20" data-id="B6" class=""behaviour KSBHyperlinks bDuty"">B6 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p id="Occupationduties21">
+                                <strong>Duty 21</strong>
+                                Practice continuous self learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development.
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                            </p>
+                            <p>
+                            </p>
+                            <p>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Works independently and takes responsibility. For example",
+"has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"" data-dutyid="Occupationduties21" data-id="B1" class=""behaviour KSBHyperlinks bDuty"">B1 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Maintains a  productive",
+"professional and secure working environment"" data-dutyid="Occupationduties21" data-id="B3" class=""behaviour KSBHyperlinks bDuty"">B3 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Shows curiosity to the business context in which the solution will be used",
+"displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities",
+"techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions."" data-dutyid="Occupationduties21" data-id="B8" class=""behaviour KSBHyperlinks bDuty"">B8 </a></span>
+                                    <span class=""form-tooltip__KSBicon""><a title=""Committed to continued professional development."" data-dutyid="Occupationduties21" data-id="B9" class=""behaviour KSBHyperlinks bDuty"">B9 </a></span>
+                            </p>
+                        </td>
+                    </tr>
+
+        </tbody>
+    </table>
+</div>
+
+<div class=""template-separator"">
+        <h2><br>KSBs</h2>
+        <h3>Knowledge</h3>
+                <p data-ksb-filter="" id="K1">
+                    <strong>K1</strong>: all stages of the software development life-cycle (what each stage contains, including the inputs and outputs) 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK1">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K2">
+                    <strong>K2</strong>: roles and responsibilities within the software development lifecycle (who is responsible for what) 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK2">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K3">
+                    <strong>K3</strong>: the roles and responsibilities of the project life-cycle within your organisation, and your role 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK3">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K4">
+                    <strong>K4</strong>: how best to communicate using the different communication methods and how to adapt appropriately to different audiences 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK4">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K5">
+                    <strong>K5</strong>: the similarities and differences between different software development methodologies, such as agile and waterfall. 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK5">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K6">
+                    <strong>K6</strong>: how teams work effectively to produce software and how to contribute appropriately 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK6">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K7">
+                    <strong>K7</strong>: software design approaches and patterns, to identify reusable solutions to commonly occurring problems 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK7">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K8">
+                    <strong>K8</strong>: organisational policies and procedures relating to the tasks being undertaken, and when to follow them.  For example the storage and treatment of GDPR sensitive data. 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK8">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K9">
+                    <strong>K9</strong>: algorithms, logic and data structures relevant to software development for example:- arrays- stacks- queues- linked lists- trees- graphs- hash tables- sorting algorithms- searching algorithms- critical sections and race conditions 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK9">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K10">
+                    <strong>K10</strong>: principles and uses of relational and non-relational databases 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK10">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K11">
+                    <strong>K11</strong>: software designs and functional or technical specifications 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK11">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="K12">
+                    <strong>K12</strong>: software testing frameworks and methodologies 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnK12">Back to Duty</a>
+                    <br>
+                </p>
+
+        <h3>Skills</h3>
+                <p data-ksb-filter="" id="S1">
+                    <strong>S1</strong>: create logical and maintainable code 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS1">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S2">
+                    <strong>S2</strong>: develop effective user interfaces  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS2">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S3">
+                    <strong>S3</strong>: link code to data sets 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS3">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S4">
+                    <strong>S4</strong>: test code and analyse results to correct errors found using unit testing 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS4">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S5">
+                    <strong>S5</strong>: conduct a range of test types, such as Integration, System, User Acceptance, Non-Functional, Performance and Security testing. 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS5">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S6">
+                    <strong>S6</strong>: identify and create test scenarios 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS6">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S7">
+                    <strong>S7</strong>: apply structured techniques to problem solving,  debug code and understand the structure of programmes in order to identify and resolve issues 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS7">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S8">
+                    <strong>S8</strong>: create simple software designs to effectively communicate understanding of the program 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS8">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S9">
+                    <strong>S9</strong>: create analysis artefacts, such as use cases and/or user stories 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS9">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S10">
+                    <strong>S10</strong>: build, manage and deploy code into the relevant environment 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS10">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S11">
+                    <strong>S11</strong>: apply an appropriate software development approach according to the relevant paradigm (for example object oriented, event driven or procedural) 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS11">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S12">
+                    <strong>S12</strong>: follow software designs and functional or technical specifications 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS12">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S13">
+                    <strong>S13</strong>: follow testing frameworks and methodologies 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS13">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S14">
+                    <strong>S14</strong>: follow company, team or client approaches to continuous integration, version and source control 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS14">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S15">
+                    <strong>S15</strong>: communicate software solutions and ideas to technical and non-technical stakeholders 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS15">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S16">
+                    <strong>S16</strong>: apply algorithms, logic and data structures 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS16">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="S17">
+                    <strong>S17</strong>: interpret and implement a given design whist remaining compliant with security and maintainability requirements 
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnS17">Back to Duty</a>
+                    <br>
+                </p>
+        <h3>Behaviours</h3>
+                <p data-ksb-filter="" id="B1">
+                    <strong>B1</strong>: Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnB1">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="B2">
+                    <strong>B2</strong>: Applies logical thinking.  For example, uses clear and <span class=""glossary-active-term"" data-glossary-term-id="valid-1066">valid</span> reasoning when making decisions related to undertaking work instructions  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnB2">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="B3">
+                    <strong>B3</strong>: Maintains a  productive, professional and secure working environment  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnB3">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="B4">
+                    <strong>B4</strong>: Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion &amp; diversity  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnB4">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="B5">
+                    <strong>B5</strong>: Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security.  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnB5">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="B6">
+                    <strong>B6</strong>: Shows initiative and takes responsibility for solving problems within their own remit, being resourceful when faced with a problem to solve.  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnB6">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="B7">
+                    <strong>B7</strong>: Communicates effectively in a variety of situations to both a technical and non-technical audience.  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnB7">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="B8">
+                    <strong>B8</strong>: Shows curiosity to the business context in which the solution will be used, displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities, techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions.  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnB8">Back to Duty</a>
+                    <br>
+                </p>
+                <p data-ksb-filter="" id="B9">
+                    <strong>B9</strong>: Committed to continued professional development.  
+                    <a class=""KSBReturntoDutyBtn KSBHyperlinks"" id="returnToTopBtnB9">Back to Duty</a>
+                    <br>
+                </p>
+    </div>
