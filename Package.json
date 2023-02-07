@@ -1,6 +1,24 @@
-// RAW INFO ONLY CURRENTLY
+/* RAW INFO ONLY CURRENTLY
 
-"K1":all stages of the software development life-cycle ("what each stage contains",
+Example of JSON format only:
+
+
+    {
+     "name": "Neil",
+     "favouriteNumber": 3,
+     "isProgrammer": true,
+     "hobbies": ["Trainers", "Caps", "Gaming"]
+    }]
+    
+{
+    "name"; "Jordan",
+    "favouriteNumber": 7,
+    "isProgrammer": true,
+    "hobbies", ["Hockey", "Putine", Mounties"]
+}] */
+
+
+/* "K1":all stages of the software development life-cycle ("what each stage contains",
 "including the inputs and outputs)
 
 K2":"roles and responsibilities within the software development lifecycle (who is responsible for what)
@@ -1019,4 +1037,4 @@ B9":"Committed to continued professional development."
         );
     });
 </script>
-                </div>
+                </div> */
