@@ -52,7 +52,7 @@ npm install react react-dom next –save /  npm init -y / npm run dev -  should 
 
 NODE.js - https://nodejs.org/en/download/
 
-LOCAL STORAGE? (Netlify etc?)
+LOCAL STORAGE? (Netlify etc?) - Not needed as REACT app?
 
 
 
