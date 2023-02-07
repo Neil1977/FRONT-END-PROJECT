@@ -886,3 +886,28 @@
                     <br>
                 </p>
     </div>
+
+    <script>
+
+    $(function () {
+        var k = $("".knowledge"");
+        var s = $("".skill"");
+        var b = $("".behaviour"");
+        var btns = $('.KSBReturntoDutyBtn')
+        var ksbNavigator = new KsbNavigationComponent(k, s, b, btns);
+
+        var optionFilter = new OptionFilterComponent(
+            $(""#options""),
+            "[
+   "data-table"
+]",
+            "[
+   "data-row"
+]",
+            "[
+   "data-ksb-filter"
+]"
+        );
+    });
+</script>
+                </div>
