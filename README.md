@@ -15,6 +15,7 @@ KSBs - Software developer / Institute for Apprenticeships and Technical Educatio
 MERMAID –(Markdown Preview Plugin) - INSTALLED! (For wireframe etc)
 
 Tiers to hit:
+
 #Tier 1 - MVP application - Index page (or Home page) with Styled Components (CSS Framework)
 Fetch a list of things and display them nicely using a CSS Framework of styled Components.
 •	As a user, I want to see the data nicely organized, so that I can consume and interact with it.
