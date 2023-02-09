@@ -1,8 +1,11 @@
 /* RAW INFO ONLY CURRENTLY
 
 Example of JSON format only:
+KSbjs file!!
 
+export const ksbData = {
 
+Knowledge:
     {
      "name": "Neil",
      "favouriteNumber": 3,
@@ -11,11 +14,20 @@ Example of JSON format only:
     }]
 
 {
+skills:
     "name"; "Jordan",
     "favouriteNumber": 7,
     "isProgrammer": true,
     "hobbies", ["Hockey", "Putine", Mounties"]
 }] */
+
+Behaviours:
+"name"; "Jordan",
+"favouriteNumber": 7,
+"isProgrammer": true,
+"hobbies", ["Hockey", "Putine", Mounties"]
+}] */
+
 
 
 /* "K1":all stages of the software development life-cycle ("what each stage contains",
