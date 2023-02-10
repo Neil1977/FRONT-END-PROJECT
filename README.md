@@ -7,8 +7,6 @@ AMEND TIERS BELOW TO REFLECT THIS - TASK 2
 
 Meramaid wireframe - Create - TASK 4
 
-Convert KSBs to JSON file - TASK 5 - RESEARCHING TOOLS BELOW - SEE ALSO EXISTING RAW PACKAGE.JSON FILE
-
 Display using REACT - Task 6
 
 Resources:
@@ -27,35 +25,22 @@ https://www.youtube.com/watch?v=iiADhChRriM&t=11s
 
 https://www.atlassian.com/agile/project-management/user-stories
 
-https://asana.com/templates/for/engineering - (May not need this as solo project/Projects on Github would be better anyway?)
-
-https://www.atlassian.com/agile/tutorials/issues - (May not need this as solo project/Projects on Github would be better anyway)
-
 https://github.com/Neil1977/FinalProject-ToDoList - Final project repo from bootcamp (for MVP format etc - vanilla only)
 
 https://stirring-puffpuff-36090a.netlify.app/ - Bootcamp end project app (for inspiration - similar theme? - see above)
 
 https://directlinegroup-my.sharepoint.com/:p:/g/personal/lunb_directlinegroup_co_uk/EVBNqqvNXqFGiyloWj0Kon0BRJFeNnhKp0tFzLuDD8GdiQ?e=OZcS9g - Bootcamp end project Powerpoint link (for inspiration/format - recording this time though)
 
-https://www.tutorialfunda.com/reactjs/setup-create-react-app-in-visual-studio-code/ - Create React app?
-
-https://www.tutorialfunda.com/reactjs/setup-react-js-project-with-next-js-vs-code/ - React.js?
-
-
-
-
+https://www.tutorialfunda.com/reactjs/setup-create-react-app-in-visual-studio-code/ - Create React app
 
 SYSTEM REQUIREMENTS:
 
-REACT.js or Create-react-app? - see above links  - npm install / npx create-react-app my-app / npm start /
-npm install react react-dom next –save /  npm init -y / npm run dev -  should be hosted at http://localhost:3000/
+Create-react-app - see above links - npm install / npx create-react-app my-app / npm start /
+npm install react react-dom next –save / npm init -y / npm run dev - should be hosted at http://localhost:3000/
 
 NODE.js - https://nodejs.org/en/download/
 
-LOCAL STORAGE? (Netlify etc?) - Not needed as REACT app?
-
-
-
+Hosting - https://www.netlify.com/
 
 Tiers to hit: (To amend to MVP etc)
 
@@ -90,6 +75,4 @@ Verify components are rendering as expected, dynamic components update according
 #Tier 7 - Accessibility
 Using the Lighthouse feature of Chrome-based browsers, verify your Accessibility is in the Green!
 
-Potential barriers:
-
-
+Potential barriers: Me and my brain
