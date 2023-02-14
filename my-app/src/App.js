@@ -1,4 +1,4 @@
-// IMPORTS HERE? - Create sub folders for pages/layout?
+/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?/ jsX? */
 // import Standards from './pages/Standards'
 // import Container from './layout/Container'
 
