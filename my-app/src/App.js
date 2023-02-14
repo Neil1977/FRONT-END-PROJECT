@@ -9,6 +9,7 @@
 // </Container>
 // )
 
+//FROM CREATE REACT APP SETUP AUTO INSTALLED BELOW
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -32,6 +33,8 @@ function App() {
     </div>
   );
 }
+
+/* HELPFUL FOR BONUS GOALS?
 
 /*function App() {
   const [theme, setTheme] = useState('light');

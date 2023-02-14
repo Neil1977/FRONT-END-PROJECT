@@ -3,10 +3,12 @@
 @tailwind components;
 @tailwind utilities */
 
-/*NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?
+/*NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY ALSO?
 export * from "./";
 export * from "./";
 export * from "./"; */
+
+/*From create react app auto installed below*/
 
 body {
   margin: 0;
