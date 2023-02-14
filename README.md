@@ -127,6 +127,5 @@ Verify components are rendering as expected, dynamic components update according
 
 #Tier 7 - Accessibility
 Using the Lighthouse feature of Chrome-based browsers, verify your Accessibility is in the Green!
-Need to cover this learning in coding rooms also wk6 (see task 8 above)
 
 Potential barriers: Me and my brain!
