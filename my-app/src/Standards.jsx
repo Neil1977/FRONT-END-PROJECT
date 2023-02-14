@@ -1,4 +1,4 @@
-/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?/ jsX or js? */
+/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?*/
 
 import { ksb } from "../data/ksbData";
 const { knowledge, skills, behaviours } = ksb;

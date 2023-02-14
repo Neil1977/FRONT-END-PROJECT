@@ -65,7 +65,7 @@ MERMAID –(Markdown Preview Plugin) - INSTALLED! (For wireframe etc) - https://
 https://codebeautify.org/blog/how-to-create-json-file/ -
 https://jsonformatter.curiousconcept.com/ - JSON formatter
 
-https://www.youtube.com/watch?v=iiADhChRriM&t=11s - learn JSON in 10 mins - **DO I NEED 2 AS CREATED? (manifest.json created by react app set up, but have package.json already?) Also confused why KSB data is in ksbData.js and not a .json file as per video? ALSO need subfolders/.jsx as per comments on all other files?**
+https://www.youtube.com/watch?v=iiADhChRriM&t=11s - learn JSON in 10 mins - **DO I NEED 2 AS CREATED? (manifest.json created by react app set up, but have package.json already?) Also confused why KSB data is in ksbData.js and not a .json file as per video? ALSO need subfolders as per comments on all other files/Tailwind sample?**
 
 https://www.atlassian.com/agile/project-management/ - Guide to creating user stories/Agile/Scrum/Jira etc - **Not needed as solo project?**
 
