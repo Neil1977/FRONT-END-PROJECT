@@ -9,7 +9,7 @@ Meramaid wireframe - Create - TASK 4
 
 Display using REACT - Task 6
 
-Include WCAG accessability - (very relevant based on content and usage)
+Include WCAG accessability - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/
 
 Host & Record - Task 7
 
