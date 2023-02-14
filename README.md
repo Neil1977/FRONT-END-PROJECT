@@ -11,7 +11,7 @@ Meramaid wireframe - Create - TASK 4
 
 Display using REACT - Task 6
 
-Include Testing - Task 7
+Include Testing - Task 7 - npm install -save-dev @testing-library/react jest
 
 Include WCAG accessability - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/ - Task 8
 
@@ -44,6 +44,10 @@ https://www.tutorialfunda.com/reactjs/setup-create-react-app-in-visual-studio-co
 SYSTEM REQUIREMENTS:
 
 Create-react-app - see above links - npm install / npx create-react-app my-app / npm start / npm run dev - should be hosted at http://localhost:3000/
+
+Testing - npm install -save-dev @testing-library/react jest
+npm run start
+npm run test
 
 NODE.js - https://nodejs.org/en/download/
 
