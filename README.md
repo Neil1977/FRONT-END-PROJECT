@@ -15,6 +15,7 @@ Display using REACT - Task 6
 Include Testing - Task 7
 
 Include WCAG accessability? - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/docs - Task 8
+Minimum of 60 score, but aim higher
 
 Presentation/Host & Record - Task 9
 Max of 2 minutes per section
@@ -52,26 +53,25 @@ Zoom - https://www.youtube.com/watch?v=P6cTbnUPwfY
 Create a script for your video
 Follow the order of your presentation
 Do at least one “run through” of the presentation before you start recording
-Upload to YouTube - https://www.youtube.com/watch?v=TrYVcY5hN5Q - NEEDS PREMIUM ACCOUNT?
+Upload to YouTube - https://www.youtube.com/watch?v=TrYVcY5hN5Q - **NEEDS PREMIUM ACCOUNT?**
 
 Resources:
 KSBs - Software developer / Institute for Apprenticeships and Technical Education! https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1
 
-https://docs.google.com/document/d/1i4nl5qcE4Su4cGID3-WcM19D52SKerHjzg5cUQ0MgjU/edit#heading=h.6ectn7wd6qx2 - LINK THIS SOMEHOW ALSO - Portfolio guide - see above
+https://docs.google.com/document/d/1i4nl5qcE4Su4cGID3-WcM19D52SKerHjzg5cUQ0MgjU/edit#heading=h.6ectn7wd6qx2 - **LINK THIS SOMEHOW ALSO? - Portfolio guide - see above**
 
-MERMAID –(Markdown Preview Plugin) - INSTALLED! (For wireframe etc)
+MERMAID –(Markdown Preview Plugin) - INSTALLED! (For wireframe etc) - https://www.bing.com/videos/search?&q=mermaid+markdown+preview+youtube+guide&view=detail&mid=86AF1FED11FBAD3C871386AF1FED11FBAD3C8713&FORM=VDRVSR&ru=%2Fvideos%2Fsearch%3Fq%3Dmermaid%2Bmarkdown%2Bpreview%2Byoutube%2Bguide%26FORM%3DHDRSC4&ajaxhist=0 - **LINKS TO READ ME SOMEHOW?**
 
-https://codebeautify.org/blog/how-to-create-json-file/
-
+https://codebeautify.org/blog/how-to-create-json-file/ -
 https://jsonformatter.curiousconcept.com/ - JSON formatter
 
-https://www.youtube.com/watch?v=iiADhChRriM&t=11s - learn JSON in 10 mins
+https://www.youtube.com/watch?v=iiADhChRriM&t=11s - learn JSON in 10 mins - **DO I NEED 2 AS CREATED? (manifest.json created by react app set up, but have package.json already?) Also confused why KSB data is in ksbData.js and not a .json file as per video? ALSO need subfolders/.jsx as per comments on all other files?**
 
-https://www.atlassian.com/agile/project-management/user-stories - Guide to creating user stories
+https://www.atlassian.com/agile/project-management/ - Guide to creating user stories/Agile/Scrum/Jira etc - **Not needed as solo project?**
 
 https://github.com/Neil1977/FinalProject-ToDoList - Final project repo from bootcamp (for MVP format etc - vanilla only though, link somehow all into this as per stretch goals on todolist?)
 
-https://stirring-puffpuff-36090a.netlify.app/ - Bootcamp end project app (for inspiration - similar theme? - see above)
+https://stirring-puffpuff-36090a.netlify.app/ - Bootcamp end project app **(for inspiration - similar theme for this project for styling etc? - see above)**
 
 https://directlinegroup-my.sharepoint.com/:p:/g/personal/lunb_directlinegroup_co_uk/EVBNqqvNXqFGiyloWj0Kon0BRJFeNnhKp0tFzLuDD8GdiQ?e=OZcS9g - Bootcamp end project Powerpoint link (for inspiration/format - recording this time though)
 
@@ -83,7 +83,7 @@ SYSTEM REQUIREMENTS:
 
 Create-react-app - see above links - npm install / npx create-react-app my-app / npm start / npm run dev - should be hosted at http://localhost:3000/
 
-Testing - https://app.codingrooms.com/app/org/multiverse-k4VMnFm/course/uk-front-end-module-6yz6WrC/b/5.-testing-react-components-l857RnV
+Testing - https://app.codingrooms.com/app/org/multiverse-k4VMnFm/course/uk-front-end-module-6yz6WrC/b/5.-testing-react-components-l857RnV **CODING ROOMS FILE IS DIFFERENT TO setupTests.js (see comment there - which?)**
 npm install -save-dev @testing-library/react jest
 npm run start
 npm run test
