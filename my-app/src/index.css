@@ -1,8 +1,12 @@
 /* React equivalent here? (from Tailwind example)
-/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY? */
-/* @tailwind base;
-/* @tailwind components;
-/* @tailwind utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities */
+
+/*NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?
+export * from "./";
+export * from "./";
+export * from "./"; */
 
 body {
   margin: 0;
