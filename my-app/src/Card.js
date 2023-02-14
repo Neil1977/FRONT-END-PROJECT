@@ -1,4 +1,5 @@
 /* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?/ jsX? */
+
 export default function Card({ ksb }) {
   return (
     <div className="grid gap-4 grid-cols-5 p-2 place-content-center">
