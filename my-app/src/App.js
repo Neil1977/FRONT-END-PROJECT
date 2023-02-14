@@ -1,4 +1,4 @@
-/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?/ jsX? */
+/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?/jsX file not js? */
 // import Standards from './pages/Standards'
 // import Container from './layout/Container'
 

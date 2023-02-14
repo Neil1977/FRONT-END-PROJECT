@@ -1,4 +1,4 @@
-/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?/ jsX? */
+/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?/jsX file not js? */
 
 export default function Container({ children }) {
   return (
