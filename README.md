@@ -48,11 +48,11 @@ Learning moment
 What would you do differently
 
 RECORDING:
-Zoom
+Zoom - https://www.youtube.com/watch?v=P6cTbnUPwfY
 Create a script for your video
 Follow the order of your presentation
 Do at least one “run through” of the presentation before you start recording
-Record, Edit, & Upload to YouTube???
+Upload to YouTube - https://www.youtube.com/watch?v=TrYVcY5hN5Q - NEEDS PREMIUM ACCOUNT?
 
 Resources:
 
