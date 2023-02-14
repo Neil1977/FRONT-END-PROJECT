@@ -3,7 +3,7 @@
 PROJECT:
 Useful tool for future? – KSB display and search app/evidence tracker etc - FLESH THIS OUT FURTHER, GOOD LOOK AT KSB SITE AND THINK ABOUT WHAT VALUE I WILL BE CREATING HERE AND NEEDS REPRESENTING - FUNCTIONALITY?/END GOAL? - TASK 1
 Ability to add notes/links to evidence for each etc?
-Link in Portfolio guide somehow? (see link in resources)
+Link in Portfolio guide somehow? (see link in resources below)
 
 AMEND TIERS BELOW TO REFLECT THIS - TASK 2
 
@@ -12,7 +12,7 @@ Wireframes submitted to coach for mock up design for your application
 
 Display using REACT - Task 6
 
-Include Testing? - Task 7 - npm install -save-dev @testing-library/react jest
+Include Testing - Task 7
 
 Include WCAG accessability? - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/docs - Task 8
 
@@ -55,7 +55,6 @@ Do at least one “run through” of the presentation before you start recording
 Upload to YouTube - https://www.youtube.com/watch?v=TrYVcY5hN5Q - NEEDS PREMIUM ACCOUNT?
 
 Resources:
-
 KSBs - Software developer / Institute for Apprenticeships and Technical Education! https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1
 
 https://docs.google.com/document/d/1i4nl5qcE4Su4cGID3-WcM19D52SKerHjzg5cUQ0MgjU/edit#heading=h.6ectn7wd6qx2 - LINK THIS SOMEHOW ALSO - Portfolio guide - see above
@@ -66,7 +65,7 @@ https://codebeautify.org/blog/how-to-create-json-file/
 
 https://jsonformatter.curiousconcept.com/ - JSON formatter
 
-https://www.youtube.com/watch?v=iiADhChRriM&t=11s - learn Json in 10 mins
+https://www.youtube.com/watch?v=iiADhChRriM&t=11s - learn JSON in 10 mins
 
 https://www.atlassian.com/agile/project-management/user-stories - Guide to creating user stories
 
@@ -84,7 +83,8 @@ SYSTEM REQUIREMENTS:
 
 Create-react-app - see above links - npm install / npx create-react-app my-app / npm start / npm run dev - should be hosted at http://localhost:3000/
 
-Testing - npm install -save-dev @testing-library/react jest
+Testing - https://app.codingrooms.com/app/org/multiverse-k4VMnFm/course/uk-front-end-module-6yz6WrC/b/5.-testing-react-components-l857RnV
+npm install -save-dev @testing-library/react jest
 npm run start
 npm run test
 
