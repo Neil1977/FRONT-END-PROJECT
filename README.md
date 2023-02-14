@@ -8,6 +8,7 @@ Link in Portfolio guide somehow? (see link in resources)
 AMEND TIERS BELOW TO REFLECT THIS - TASK 2
 
 Meramaid wireframe - Create - TASK 4
+Wireframes submitted to coach for mock up design for your application
 
 Display using REACT - Task 6
 
@@ -15,7 +16,43 @@ Include Testing? - Task 7 - npm install -save-dev @testing-library/react jest
 
 Include WCAG accessability? - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/docs - Task 8
 
-Host & Record - Task 9
+Presentation/Host & Record - Task 9
+Max of 2 minutes per section
+Max of 10 minutes total presentation
+
+TO INCLUDE:
+Walk through the app (deployed if possible)
+Completed tiers
+List page for a bunch of items / Show page for single item
+Search for thing
+Navigation & client-side routing (URL & query params)
+Unit Tests
+Accessibility Rating (from Lighthouse)
+Bonus goals?
+
+1st Segment:
+Your best test(s)
+Test success story
+Saved you time
+Prevented bugs
+
+2nd Segment:
+Overview of State management and Routes
+What items are stored and shared in global state?
+What does the routing hierarchy look like?
+Are you using global state values to search and filter through other state?
+
+3rd Segment:
+Successful practices
+Learning moment
+What would you do differently
+
+RECORDING:
+Zoom
+Create a script for your video
+Follow the order of your presentation
+Do at least one “run through” of the presentation before you start recording
+Record, Edit, & Upload to YouTube???
 
 Resources:
 
@@ -54,6 +91,7 @@ npm run test
 NODE.js - https://nodejs.org/en/download/
 
 Hosting - https://www.netlify.com/
+https://app.codingrooms.com/app/org/multiverse-k4VMnFm/course/uk-front-end-module-6yz6WrC/b/9.-deployment-Ah0UMYo - INSTRUCTIONS
 
 Tiers to hit: (To amend to MVP etc)
 
