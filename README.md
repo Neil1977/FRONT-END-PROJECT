@@ -11,9 +11,9 @@ Meramaid wireframe - Create - TASK 4
 
 Display using REACT - Task 6
 
-Include Testing - Task 7 - npm install -save-dev @testing-library/react jest
+Include Testing? - Task 7 - npm install -save-dev @testing-library/react jest
 
-Include WCAG accessability - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/ - Task 8
+Include WCAG accessability? - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/docs - Task 8
 
 Host & Record - Task 9
 
@@ -40,6 +40,8 @@ https://stirring-puffpuff-36090a.netlify.app/ - Bootcamp end project app (for in
 https://directlinegroup-my.sharepoint.com/:p:/g/personal/lunb_directlinegroup_co_uk/EVBNqqvNXqFGiyloWj0Kon0BRJFeNnhKp0tFzLuDD8GdiQ?e=OZcS9g - Bootcamp end project Powerpoint link (for inspiration/format - recording this time though)
 
 https://www.tutorialfunda.com/reactjs/setup-create-react-app-in-visual-studio-code/ - Create React app tutorial
+
+Auditing with Lighthouse (ACCESABILITY CHROME ONLY!) - https://app.codingrooms.com/app/org/multiverse-k4VMnFm/course/uk-front-end-module-6yz6WrC/b/6.-exercise:-lighthouse-0qazFph
 
 SYSTEM REQUIREMENTS:
 
