@@ -1,3 +1,46 @@
+import React from 'react';
+import { useEffect, useState } from 'react';
+import { Card } from '/Card.jsx';
+
+function App() {
+
+  const [ksb] = useState([]);
+
+useEffect(() => {
+fetch({ksb}).then((res) => res.json()).then((data) => {ksbData(data.results)})
+})
+  return (
+    <div>
+    <h1>Render Here</h1>
+    {ksb.map((card) => <Card ksb ={ksb.title} /> )}
+    </div>
+);
+}
+
+export { App };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* IGNORE FOR NOW MAY NOT BE NEEDED
 // import Standards from './pages/Standards'
 // import Container from './layout/Container'
@@ -10,7 +53,7 @@
 // )*/
 
 //FROM CREATE REACT APP SETUP AUTO INSTALLED BELOW
-import logo from "./logo.svg";
+/*import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -75,4 +118,4 @@ function App() {
   );
 }*/
 
-export default App;
+/*export default App;*/
