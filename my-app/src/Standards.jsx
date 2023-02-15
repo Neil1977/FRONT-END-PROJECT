@@ -1,3 +1,5 @@
+/* IGNORE FOR NOW
+
 import { ksb } from "../data/ksbData";
 const { knowledge, skills, behaviours } = ksb;
 import Card from "../components/ui/Card";
@@ -10,4 +12,4 @@ export default function Standards() {
       ))}
     </>
   );
-}
+}*/
