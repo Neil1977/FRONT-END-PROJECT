@@ -1,23 +1,27 @@
 # FRONT-END-PROJECT - DRAFT
 
 PROJECT:
-Useful tool for future? – KSB display and search app/evidence tracker etc - FLESH THIS OUT FURTHER, GOOD LOOK AT KSB SITE AND THINK ABOUT WHAT VALUE I WILL BE CREATING HERE AND NEEDS REPRESENTING - FUNCTIONALITY?/END GOAL? - TASK 1
+Useful tool for future? – KSB display and search app/evidence tracker etc - FLESH THIS OUT FURTHER, GOOD LOOK AT KSB SITE AND THINK ABOUT WHAT VALUE I WILL BE CREATING HERE AND NEEDS REPRESENTING - FUNCTIONALITY?/END GOAL? - TASK 1 - COMPLETED
 Ability to add notes/links to evidence for each etc?
 Link in Portfolio guide somehow? (see link in resources below)
 
-AMEND TIERS BELOW TO REFLECT THIS - TASK 2
+AMEND TIERS BELOW TO REFLECT THIS - TASK 2 - COMPLETED
 
-Meramaid wireframe - Create - TASK 3
+Create REACT App - TASK 3 - COMPLETED
+
+Create Card component and render x 2 - TASK 4
+
+CHECK IN WITH COACH AT THIS POINT
+
+Meramaid wireframe - Create - TASK 5
 Wireframes submitted to coach for mock up design for your application
 
-Display using REACT - Task 4
+Include Testing - Task 6
 
-Include Testing - Task 5
-
-Include WCAG accessability? - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/docs - Task 6
+Include WCAG accessability? - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/docs - Task 7
 Minimum of 60 score, but aim higher for green
 
-Presentation/Host & Record - Task 7
+Presentation/Host & Record - Task 8
 Max of 2 minutes per section
 Max of 10 minutes total presentation
 
