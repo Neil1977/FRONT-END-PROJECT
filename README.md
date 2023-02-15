@@ -69,15 +69,15 @@ MERMAID –(Markdown Preview Plugin) - INSTALLED! (For wireframe etc) - https://
 https://codebeautify.org/blog/how-to-create-json-file/ -
 https://jsonformatter.curiousconcept.com/ - JSON formatter
 
-https://www.youtube.com/watch?v=iiADhChRriM&t=11s - learn JSON in 10 mins - **DO I NEED 2 AS CREATED? (manifest.json created by react app set up, but have package.json already?) Also confused why KSB data is in ksbData.js and not a .json file as per video? ALSO need subfolders as per comments on all other files/Tailwind sample?**
+https://www.youtube.com/watch?v=iiADhChRriM&t=11s - learn JSON in 10 mins - **DO I NEED 2 AS CREATED? (manifest.json created by react app set up, but have package.json already?)**
 
 https://www.atlassian.com/agile/project-management/ - Guide to creating user stories/Agile/Scrum/Jira etc - **Not needed as solo project?**
 
-https://github.com/Neil1977/FinalProject-ToDoList - Final project repo from bootcamp (for MVP format etc - vanilla only though, link somehow all into this as per stretch goals on todolist?)
+https://github.com/Neil1977/FinalProject-ToDoList - **Final project repo from bootcamp (for MVP format etc - vanilla only though, link somehow all into this as per stretch goals on todolist?)**
 
 https://stirring-puffpuff-36090a.netlify.app/ - Bootcamp end project app **(for inspiration - similar theme for this project for styling etc? - see above)**
 
-https://directlinegroup-my.sharepoint.com/:p:/g/personal/lunb_directlinegroup_co_uk/EVBNqqvNXqFGiyloWj0Kon0BRJFeNnhKp0tFzLuDD8GdiQ?e=OZcS9g - Bootcamp end project Powerpoint link (for inspiration/format - recording this time though)
+https://directlinegroup-my.sharepoint.com/:p:/g/personal/lunb_directlinegroup_co_uk/EVBNqqvNXqFGiyloWj0Kon0BRJFeNnhKp0tFzLuDD8GdiQ?e=OZcS9g - **Bootcamp end project Powerpoint link (for inspiration/format - recording this time though)**
 
 https://www.tutorialfunda.com/reactjs/setup-create-react-app-in-visual-studio-code/ - Create React app tutorial
 
