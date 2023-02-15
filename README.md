@@ -7,17 +7,17 @@ Link in Portfolio guide somehow? (see link in resources below)
 
 AMEND TIERS BELOW TO REFLECT THIS - TASK 2
 
-Meramaid wireframe - Create - TASK 4
+Meramaid wireframe - Create - TASK 3
 Wireframes submitted to coach for mock up design for your application
 
-Display using REACT - Task 6
+Display using REACT - Task 4
 
-Include Testing - Task 7
+Include Testing - Task 5
 
-Include WCAG accessability? - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/docs - Task 8
-Minimum of 60 score, but aim higher
+Include WCAG accessability? - (very relevant based on content and usage) - https://www.w3.org/WAI/standards-guidelines/wcag/docs - Task 6
+Minimum of 60 score, but aim higher for green
 
-Presentation/Host & Record - Task 9
+Presentation/Host & Record - Task 7
 Max of 2 minutes per section
 Max of 10 minutes total presentation
 
