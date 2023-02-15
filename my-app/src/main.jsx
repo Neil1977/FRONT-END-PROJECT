@@ -1,4 +1,24 @@
-/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*MAY NOT BE NEEDED IGNORE FOR NOW
 
 import React from "react";
 import ReactDOM from "react-dom/client";
@@ -9,4 +29,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
-);
+);*/

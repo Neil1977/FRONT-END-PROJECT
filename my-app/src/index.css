@@ -1,3 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*IGNORE ALL THIS AS MAY NOT BE NEEDED
 /* React equivalent here? (from Tailwind example)
 @tailwind base;
 @tailwind components;
@@ -10,7 +37,7 @@ export * from "./"; */
 
 /*From create react app auto installed below*/
 
-body {
+/*body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

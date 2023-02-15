@@ -1,4 +1,4 @@
-/* NEEDS CARD/COMPONENTS/ASSETS/LAYOUT/PAGES SUBFOLDERS IN DIRECTORY?*/
+/* IGNORE FOR NOW MAY NOT BE NEEDED
 // import Standards from './pages/Standards'
 // import Container from './layout/Container'
 
@@ -7,7 +7,7 @@
 // <Container>
 // <Standards />
 // </Container>
-// )
+// )*/
 
 //FROM CREATE REACT APP SETUP AUTO INSTALLED BELOW
 import logo from "./logo.svg";
