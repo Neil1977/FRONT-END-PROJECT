@@ -2,7 +2,7 @@
 
 Notes only from learning recap before continuing task 4:
 **React Bootstrap/React Functional components - Start again this way and restructure (struggling to proceed past task 4 below so reviewing approach)**
-**Example to reference if needed - https://github.com/Jaardy/trivia/blob/main/src/App.js - Wk2 Recording also**
+**Example to reference if needed - https://github.com/Jaardy/trivia/blob/main/src/App.js - Wk2 Recording also - 00:57:00 livecode will help - similar**
 
 PROJECT:
 Useful tool for future? – KSB display and search app/evidence tracker etc - FLESH THIS OUT FURTHER, GOOD LOOK AT KSB SITE AND THINK ABOUT WHAT VALUE I WILL BE CREATING HERE AND NEEDS REPRESENTING - FUNCTIONALITY?/END GOAL? - TASK 1 - COMPLETED
