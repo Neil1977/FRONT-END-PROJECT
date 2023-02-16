@@ -1,5 +1,9 @@
 # FRONT-END-PROJECT - DRAFT
 
+Notes only from learning recap before continuing:
+CSS framework would help me? (coding rooms - Bootstrap CDN - npm install bootstrap - my setup was create react app)
+React Bootstrap? (see above - npm install react-bootstrap bootstrap)
+
 PROJECT:
 Useful tool for future? – KSB display and search app/evidence tracker etc - FLESH THIS OUT FURTHER, GOOD LOOK AT KSB SITE AND THINK ABOUT WHAT VALUE I WILL BE CREATING HERE AND NEEDS REPRESENTING - FUNCTIONALITY?/END GOAL? - TASK 1 - COMPLETED
 Ability to add notes/links to evidence for each etc?
