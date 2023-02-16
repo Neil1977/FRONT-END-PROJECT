@@ -1,9 +1,8 @@
 # FRONT-END-PROJECT - DRAFT
 
-Notes only from learning recap before continuing:
-CSS framework would help me? (coding rooms - Bootstrap CDN - npm install bootstrap - my setup was create react app)
-
-React Bootstrap/React Class components? (see above - npm install react-bootstrap bootstrap) - Start again this way and restructure?
+Notes only from learning recap before continuing task 4:
+**React Bootstrap/React Functional components - Start again this way and restructure (struggling to proceed past task 4 below so reviewing approach)**
+**Example to reference if needed - https://github.com/Jaardy/trivia/blob/main/src/App.js - Wk2 Recording also**
 
 PROJECT:
 Useful tool for future? – KSB display and search app/evidence tracker etc - FLESH THIS OUT FURTHER, GOOD LOOK AT KSB SITE AND THINK ABOUT WHAT VALUE I WILL BE CREATING HERE AND NEEDS REPRESENTING - FUNCTIONALITY?/END GOAL? - TASK 1 - COMPLETED
@@ -14,9 +13,9 @@ AMEND TIERS BELOW TO REFLECT THIS - TASK 2 - COMPLETED
 
 Create REACT App - TASK 3 - COMPLETED
 
-Create Card component and render x 2 - TASK 4
+**Create Card component and render x 2 - TASK 4**
 
-CHECK IN WITH COACH AT THIS POINT
+**CHECK IN WITH COACH AT THIS POINT**
 
 Meramaid wireframe - Create - TASK 5
 Wireframes submitted to coach for mock up design for your application
