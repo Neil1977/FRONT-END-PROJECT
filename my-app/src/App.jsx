@@ -1,22 +1,40 @@
-import React, { Component } from 'react';
-import { ksb } from "./ksbData";
-import { Card } from '/Card.jsx';
+import React, { Component } from "react";
+import { Card } from "Card.jsx";
 
 function App() {
+  const [ksb] = [];
 
-  const [ksb] = useState([]);
-
-useEffect(() => {
-fetch({ksb}).then((res) => res.json()).then((data) => {ksbData(data.results)})
-})
-  return (
-    <div>
-    <h1>Render Here</h1>
-    {ksb.map((card) => <Card ksb ={ksb.title} /> )}
-    </div>
-);
+  class App extends Component {
+    constructor() {
+      super();
+      this.state = {
+        ksb: null
+      };
+    }
+    
+      async componentDidMount() {
+        let response = await fetch(ksb);
+        let data = await response.json();
+        this.setState({ksb: data.results[0]})
+      } catch (error) {
+        console.log(error)
+      }
 }
 
+    render() {
+      return (
+        <div className="container">
+        <h1 className="ksb.title">Render Here</h1>
+        {ksb.map((card) => (
+          <Card ksb={ksb.title} />
+          </div>
+        );
+        
+      }
+    }
+    
+    
+  
 export { App };
 
 
@@ -34,48 +52,24 @@ export { App };
 
 
 
-
-
-
-
-
-
-
-/* IGNORE FOR NOW MAY NOT BE NEEDED
-// import Standards from './pages/Standards'
-// import Container from './layout/Container'
-
-// export default function App() {
-// return (
-// <Container>
-// <Standards />
-// </Container>
-// )*/
-
-//FROM CREATE REACT APP SETUP AUTO INSTALLED BELOW
-/*import logo from "./logo.svg";
-import "./App.css";
-
-function App() {
+  
+/* </div>fetch({ ksb })
+      .then((res) => res.json())
+      .then((data) => {
+        ksbData(data.results);
+      });
+  });
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Render Here</h1>
+      {ksb.map((card) => (
+        <Card ksb={ksb.title} />
+      ))}
     </div>
   );
 }
+
+export { App };
 
 /* HELPFUL FOR BONUS GOALS?
 
@@ -118,4 +112,4 @@ function App() {
   );
 }*/
 
-/*export default App;*/
+
