@@ -1,5 +1,5 @@
-import React from 'react';
-import { useEffect, useState } from 'react';
+import React, { Component } from 'react';
+import { ksb } from "./ksbData";
 import { Card } from '/Card.jsx';
 
 function App() {
