@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import Card from "./ksbData";
+import React, { Component } from "react";
 import styles from "./index.css";
 
 export default function Card({ ksb }) {

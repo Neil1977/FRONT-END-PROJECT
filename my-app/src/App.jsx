@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Card } from "Card.jsx";
+import { Card } from "/.Card.jsx";
 
 function App() {
   const [ksb] = [];
@@ -21,7 +21,7 @@ function App() {
       }
 }
 
-    render() {
+render() {
       return (
         <div className="container">
         <h1 className="ksb.title">Render Here</h1>
@@ -33,18 +33,19 @@ function App() {
         );
         }
     }
-    
-    
-  
-export { App };
 
+    /*OR?
 
-/* </div>fetch({ ksb })
+    
+  <div>
+  fetch({ ksb })
       .then((res) => res.json())
       .then((data) => {
         ksbData(data.results);
       });
+      </div>
   });
+
   return (
     <div>
       <h1>Render Here</h1>
@@ -53,9 +54,24 @@ export { App };
       ))}
     </div>
   );
-}
+}*/
 
 export { App };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* HELPFUL FOR BONUS GOALS?
 
