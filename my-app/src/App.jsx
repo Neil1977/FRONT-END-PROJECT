@@ -7,33 +7,36 @@ function App() {
   const [ksb] = [];
 
   class App extends Component {
-    constructor() {
-      super();
+    constructor(props) {
+      super(props);
       this.state = {
-        ksb: null
+        ksb: null,
       };
     }
-    
-      async componentDidMount() {
-        let response = await fetch(ksb);
-        let data = await response.json();
-        this.setState({ksb: data.results[0]})
-      } catch (error) {
-        console.log(error)
-      }
+
+    async componentDidMount() {
+      let response = await fetch(ksb);
+      let data = await response.json();
+      this.setState({ ksb: data.results[0] });
+    }
+    catch(error) {
+      console.log(error);
+    }
+  }
+}
+render();
+{
+  return (
+    <div className={container}>
+      <h1 className={ksb.title}>Render Here</h1>
+      <h2 className={ksb.name}>Render Here</h2>
+    </div>
+  );
+}
+{
+  ksb.map((card) => <Card ksb={ksb.title} />);
 }
 
-render(); {
-      return (
-        <div className="container">
-        <h1 className="ksb.title">Render Here</h1>
-        <h2 className="ksb.name">Render Here</h2>
-        </div>
-      )
-      {ksb.map((card) => (
-          <Card ksb={ksb.title} />
-        ))};
-    
 /*OR?
 
   <div>
@@ -54,7 +57,6 @@ render(); {
     </div>
   );
 }*/
-
 
 /* HELPFUL FOR BONUS GOALS AT SOME POINT?
 
