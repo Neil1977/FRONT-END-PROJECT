@@ -39,9 +39,6 @@ function App() {
 export { App };
 
 
-
-
-
 /* </div>fetch({ ksb })
       .then((res) => res.json())
       .then((data) => {

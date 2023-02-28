@@ -1,14 +1,14 @@
 /* IGNORE FOR NOW
 
-import { ksb } from "../data/ksbData";
+import { ksb } from "./ksbData.jsx";
 const { knowledge, skills, behaviours } = ksb;
-import Card from "../components/ui/Card";
+import Card from "./Card.jsx";
 console.log(knowledge.map((k) => k));
 export default function Standards() {
   return (
     <>
       {knowledge.map((k) => (
-        <Card key={k.title} ksb={k} />
+        <Card key={ksb.title} ksb={k} />
       ))}
     </>
   );
