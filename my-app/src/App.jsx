@@ -36,7 +36,6 @@ render(); {
     
 /*OR?
 
-    
   <div>
   fetch({ ksb })
       .then((res) => res.json())
@@ -56,24 +55,8 @@ render(); {
   );
 }*/
 
-export { App };
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* HELPFUL FOR BONUS GOALS?
+/* HELPFUL FOR BONUS GOALS AT SOME POINT?
 
 /*function App() {
   const [theme, setTheme] = useState('light');
@@ -114,3 +97,4 @@ export { App };
   );
 }*/
 
+export { App };
