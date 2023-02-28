@@ -25,12 +25,13 @@ function App() {
       return (
         <div className="container">
         <h1 className="ksb.title">Render Here</h1>
+        <h2 className="ksb.name">Render Here</h2>
+        
         {ksb.map((card) => (
           <Card ksb={ksb.title} />
           </div>
         );
-        
-      }
+        }
     }
     
     
@@ -41,18 +42,6 @@ export { App };
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-  
 /* </div>fetch({ ksb })
       .then((res) => res.json())
       .then((data) => {

@@ -1,8 +1,5 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-import "./index.css";
-import App from "./App";
-import reportWebVitals from "./reportWebVitals";
+import React, { Component } from "react";
+import { Card } from "Card.jsx";
 
 /*createRoot(document.getElementById('root')).render(<App />); - REPLACE BELOW?*/
 
@@ -12,6 +9,5 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
 
 reportWebVitals();
