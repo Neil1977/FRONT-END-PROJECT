@@ -1,5 +1,7 @@
 import React, { Component } from "react";
-import { Card } from "/.Card.jsx";
+import Card from "/.Card";
+import Standards from "./Standards";
+import Container from "./Container";
 
 function App() {
   const [ksb] = [];
@@ -21,20 +23,18 @@ function App() {
       }
 }
 
-render() {
+render(); {
       return (
         <div className="container">
         <h1 className="ksb.title">Render Here</h1>
         <h2 className="ksb.name">Render Here</h2>
-        
-        {ksb.map((card) => (
+        </div>
+      )
+      {ksb.map((card) => (
           <Card ksb={ksb.title} />
-          </div>
-        );
-        }
-    }
-
-    /*OR?
+        ))};
+    
+/*OR?
 
     
   <div>
@@ -113,5 +113,4 @@ export { App };
     </div>
   );
 }*/
-
 

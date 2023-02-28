@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Card } from "Card.jsx";
+import Card from "/.Card";
 
 /*createRoot(document.getElementById('root')).render(<App />); - REPLACE BELOW?
 
