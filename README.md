@@ -1,9 +1,5 @@
 # FRONT-END-PROJECT - DRAFT
 
-Notes only from learning recap before continuing task 4:
-**React Bootstrap/React Functional components - Start again this way and restructure (struggling to proceed past task 4 below so reviewing approach)**
-**Example to reference if needed - https://github.com/Jaardy/trivia/blob/main/src/App.js - Wk2 Recording also - 01:19:00 livecode will help - similar?**
-
 PROJECT:
 Useful tool for future? – KSB display and search app/evidence tracker etc - FLESH THIS OUT FURTHER, GOOD LOOK AT KSB SITE AND THINK ABOUT WHAT VALUE I WILL BE CREATING HERE AND NEEDS REPRESENTING - FUNCTIONALITY?/END GOAL? - TASK 1 - COMPLETED
 Ability to add notes/links to evidence for each etc?
@@ -13,7 +9,7 @@ AMEND TIERS BELOW TO REFLECT THIS - TASK 2 - COMPLETED
 
 Create REACT App - TASK 3 - COMPLETED
 
-**Create Card component and render x 2 - TASK 4**
+Create Card component and render x 2 - TASK 4 - COMPLETED
 
 **CHECK IN WITH COACH AT THIS POINT**
 
@@ -70,20 +66,11 @@ https://docs.google.com/document/d/1i4nl5qcE4Su4cGID3-WcM19D52SKerHjzg5cUQ0MgjU/
 
 MERMAID –(Markdown Preview Plugin) - INSTALLED! (For wireframe etc) - https://www.bing.com/videos/search?&q=mermaid+markdown+preview+youtube+guide&view=detail&mid=86AF1FED11FBAD3C871386AF1FED11FBAD3C8713&FORM=VDRVSR&ru=%2Fvideos%2Fsearch%3Fq%3Dmermaid%2Bmarkdown%2Bpreview%2Byoutube%2Bguide%26FORM%3DHDRSC4&ajaxhist=0 - **LINKS TO READ ME SOMEHOW?**
 
-https://codebeautify.org/blog/how-to-create-json-file/ -
-https://jsonformatter.curiousconcept.com/ - JSON formatter
-
-https://www.youtube.com/watch?v=iiADhChRriM&t=11s - learn JSON in 10 mins - **DO I NEED 2 AS CREATED? (manifest.json created by react app set up, but have package.json already?)**
-
-https://www.atlassian.com/agile/project-management/ - Guide to creating user stories/Agile/Scrum/Jira etc - **Not needed as solo project?**
-
 https://github.com/Neil1977/FinalProject-ToDoList - **Final project repo from bootcamp (for MVP format etc - vanilla only though, link somehow all into this as per stretch goals on todolist?)**
 
 https://stirring-puffpuff-36090a.netlify.app/ - Bootcamp end project app **(for inspiration - similar theme for this project for styling etc? - see above)**
 
 https://directlinegroup-my.sharepoint.com/:p:/g/personal/lunb_directlinegroup_co_uk/EVBNqqvNXqFGiyloWj0Kon0BRJFeNnhKp0tFzLuDD8GdiQ?e=OZcS9g - **Bootcamp end project Powerpoint link (for inspiration/format - recording this time though)**
-
-https://www.tutorialfunda.com/reactjs/setup-create-react-app-in-visual-studio-code/ - Create React app tutorial
 
 Auditing with Lighthouse (ACCESABILITY CHROME ONLY!) - https://app.codingrooms.com/app/org/multiverse-k4VMnFm/course/uk-front-end-module-6yz6WrC/b/6.-exercise:-lighthouse-0qazFph
 
