@@ -7,7 +7,7 @@ Link in Portfolio guide somehow? (see link in resources below)
 
 AMEND TIERS BELOW TO REFLECT THIS - TASK 2 - COMPLETED
 
-Create REACT App - TASK 3 - COMPLETED
+Create REACT Bootstrap App - TASK 3 - COMPLETED
 
 Create Card component and render x 2 - TASK 4 - COMPLETED
 
@@ -33,7 +33,7 @@ Search for thing
 Navigation & client-side routing (URL & query params)
 Unit Tests
 Accessibility Rating (from Lighthouse)
-Bonus goals?
+**Bonus goals? - Light/Dark Mode - COMPLETED OUT OF SEQUENCE AS HAD APPROPRIATE CODE READY TO DO THIS PRE TIER 2 BELOW**
 
 1st Segment:
 Your best test(s)
