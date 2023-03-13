@@ -1,7 +1,6 @@
-import React, { Component } from "react";
-import Card from "/.Card";
-
-/*createRoot(document.getElementById('root')).render(<App />); - REPLACE BELOW?
+import React from "react";
+import App from "./App";
+import ReactDOM from "react-dom/client";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -9,5 +8,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-reportWebVitals();*/

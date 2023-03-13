@@ -1,10 +1,20 @@
-import React, { Component } from "react";
-import Card from "/.Card";
-import Standards from "./Standards";
-import Container from "./Container";
+import React, { useState } from "react";
+import { KsbCard } from "./KsbCard";
+import { ksb } from "./ksbData";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+import Button from "react-bootstrap/Button";
 
-function App() {
-  const [ksb] = [];
+export default function App() {
+  const [theme, setTheme] = useState("light");
+
+  function toggleTheme() {
+    const nextTheme = theme === "secondary" ? "light" : "secondary";
+    setTheme(nextTheme);
+  }
+  /*const [ksb] = [];
 
   class App extends Component {
     constructor(props) {
@@ -25,16 +35,34 @@ function App() {
   }
 }
 render();
-{
+*/
+  const { knowledge, skills, behaviours } = ksb;
   return (
-    <div className={container}>
-      <h1 className={ksb.title}>Render Here</h1>
-      <h2 className={ksb.name}>Render Here</h2>
+    <div>
+      <Button variant="primary" onClick={toggleTheme}>
+        Light/Dark
+      </Button>
+      <Container>
+        <Row>
+          <Col>
+            {knowledge.map((each) => (
+              <KsbCard ksb={each} theme={theme} />
+            ))}
+          </Col>
+          <Col>
+            {skills.map((each) => (
+              <KsbCard ksb={each} theme={theme} />
+            ))}
+          </Col>
+          <Col>
+            {behaviours.map((each) => (
+              <KsbCard ksb={each} theme={theme} />
+            ))}
+          </Col>
+        </Row>
+      </Container>
     </div>
   );
-}
-{
-  ksb.map((card) => <Card ksb={ksb.title} />);
 }
 
 /*OR?
@@ -98,5 +126,3 @@ render();
     </div>
   );
 }*/
-
-export { App };

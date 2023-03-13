@@ -1,5 +1,5 @@
-import ksb from "./ksbData";
-import Card from "./Card";
+/*import ksb from "./ksbData";
+import Card from "./KsbCard";
 
 const { knowledge, skills, behaviours } = ksb;
 console.log(knowledge.map((k) => k));
@@ -11,4 +11,4 @@ export default function Standards() {
       ))}
     </>
   );
-}
+}*/
